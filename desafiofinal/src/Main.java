@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Desafio {
+public class Main {
     public static void main(String[] args) {
         String nome = "Isabela";
         String tipoDeConta = "Corrente";
