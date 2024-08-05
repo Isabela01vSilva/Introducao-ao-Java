@@ -1,6 +1,6 @@
 # Java: Criando a Sua Primeira Aplicação
 
-Este repositório contém o código e exercícios do curso **[Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao)** da trilha **Aprenda a programar em Java com Orientação a Objetos** da plataforma Alura.
+Este repositório contém o código e exercícios do curso **[Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao)** da trilha **[Aprenda a programar em Java com Orientação a Objetos](https://cursos.alura.com.br/formacao-java)** da plataforma Alura.
 
 ## Conteúdo do Curso
 
