@@ -1,7 +1,6 @@
 # Java: Criando a Sua Primeira Aplicação
 
-Este repositório contém o código e exercícios do curso **Java: criando a sua primeira aplicação** da trilha **Aprenda a programar em Java com Orientação a Objetos** da plataforma Alura.
-Link do curso: https://cursos.alura.com.br/course/java-criando-primeira-aplicacao
+Este repositório contém o código e exercícios do curso **[Java: criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao)** da trilha **Aprenda a programar em Java com Orientação a Objetos** da plataforma Alura.
 
 ## Conteúdo do Curso
 
@@ -21,5 +20,5 @@ Link do curso: https://cursos.alura.com.br/course/java-criando-primeira-aplicaca
 - Implemente estruturas de controle como condicionais (if/else) e loops (for/while) para gerenciar o fluxo da aplicação.
 
 ### Projeto Youtube - Rocketseat
-- Projeto do youtube, como sair do ZERO em java em 1h - com ‪@kipperdev‬
-- Link: https://youtu.be/EpXYPB1rv4w?si=KWT0PWT_Z0jV1eax
+- [Projeto do youtube, como sair do ZERO em java em 1h - com ‪@kipperdev‬](https://youtu.be/EpXYPB1rv4w?si=KWT0PWT_Z0jV1eax)
+
